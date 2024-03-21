@@ -1,0 +1,23 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+.header {
+    display: flex;
+    padding-top: 30px;
+    padding-bottom: 30px;
+    justify-content: space-around;
+}
+
+.content {
+    display: flex;
+    padding-top: 30px;
+    padding-left: 50px;
+    justify-content: center;
+}
+
+.footer {
+    display: flex;
+    justify-content: center;
+}
